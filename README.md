@@ -15,3 +15,7 @@ Moreover, we will also impelment some other key techniques in MIMO communication
 - [ ] Other channel models, such as tapped delay line channel model.
 - [ ] Other modulation schemes, such as OFDM.
 - [ ] Other transmission schemes for MIMO, such as MRC and Alamouti etc..
+
+
+## Thanks and Reference
+...
