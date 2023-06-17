@@ -9,7 +9,6 @@ Moreover, we will also impelment some other key techniques in MIMO communication
 ## TODO
 - [x] implement a basic SISO digital communication systems with digital modulations over digital channel models.
 - [x] implement a MIMO communication systems over SVD MIMO schemes.
-- [x] implement a MIMO communication systems over SVD MIMO schemes.
 - [ ] implement the channel feedback. 
 - [ ] implement the channel estimation.
 - [ ] Other channel models, such as tapped delay line channel model.
